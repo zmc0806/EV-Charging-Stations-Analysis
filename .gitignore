@@ -1,0 +1,11 @@
+# Ignore Python compiled files
+*.pyc
+
+# Ignore data directory
+/data/
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
